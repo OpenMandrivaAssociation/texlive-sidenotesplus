@@ -1,6 +1,6 @@
 Name:		texlive-sidenotesplus
 Version:	63867
-Release:	1
+Release:	2
 Summary:	Place referenced notes, alerts, figures and tables into the document margin
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sidenotesplus
