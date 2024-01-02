@@ -1,5 +1,5 @@
 Name:		texlive-sidenotesplus
-Version:	68456
+Version:	69176
 Release:	1
 Summary:	Place referenced notes, alerts, figures and tables into the document margin
 Group:		Publishing
