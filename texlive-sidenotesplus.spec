@@ -3,7 +3,7 @@ Version:	69176
 Release:	1
 Summary:	Place referenced notes, alerts, figures and tables into the document margin
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sidenotesplus
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sidenotesplus
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sidenotesplus.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sidenotesplus.doc.r%{version}.tar.xz
